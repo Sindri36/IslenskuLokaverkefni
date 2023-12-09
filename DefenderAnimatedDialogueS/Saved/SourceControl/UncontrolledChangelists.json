@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Demo/Levels/LevelDialogueBlockout.umap",
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Blueprints/Characters/DialogueNPCs/Odinn.uasset",
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Datatables/DT_DialogueParticipants.uasset",
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Datatables/DialogueDatatables/LevelDialogueMain/DialogueBubbles/Gandalf.uasset",
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Demo/Levels/Untitled.umap",
+				"C:/Users/hetja/Documents/Unreal Projects/DefenderAnimatedDialogueS/Content/Defender/Demo/Levels/LevelDialogueTest.umap"
+			]
+		}
+	]
+}
